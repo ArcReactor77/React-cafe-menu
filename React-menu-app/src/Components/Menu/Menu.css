@@ -1,0 +1,10 @@
+.body-menu {
+    background-color: #e6ccb2ff;
+    color: #7f5539ff;
+    flex-direction: column;
+    width: 200%;
+}
+
+h3 {
+    text-align: left;
+}
